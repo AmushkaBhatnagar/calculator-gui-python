@@ -1,26 +1,14 @@
-# 🧮 Calculator GUI (Python)
+# Calculator GUI (Python)
 
-## 📌 Project Description
-This project is a simple calculator built using Python and Tkinter.
-It allows users to perform basic arithmetic operations with a graphical interface.
+## Description
+This project is a GUI-based calculator built using Python and Tkinter.
 
-## 🚀 Features
-- Addition, Subtraction, Multiplication, Division
-- Clear button
-- Error handling
-- Simple GUI design
+## Features
+- Basic arithmetic operations
+- User-friendly interface
 
-## 🛠️ Technologies Used
-- Python
-- Tkinter
+## Note
+The project is developed using Tkinter and may require a local Python environment to run.
 
-## ▶️ How to Run
-1. Install Python
-2. Run:
-   python calculator.py
-
-## 📷 Output
-(Add screenshot here)
-
-## 👨‍💻 Author
-Your Name
+## How to Run
+python3 calculator.py
